@@ -80,7 +80,7 @@
 ## Для запуска потребуется
 - этот репозиторий 
  ```
-git clone https://github.com/VladislavBobyrev/
+git clone https://github.com/VladislavBobyrev/vue-login
 ```
 - node.js 
  
